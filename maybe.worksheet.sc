@@ -60,3 +60,11 @@ println(s"fold (Just) = $report") // got 5
 
 val reportFail = divide(10, 0).fold("no result")(v => s"got $v")
 println(s"fold (Empty) = $reportFail") // no result
+
+val pp = println("Hellow, World")
+val aa = pp
+// non referencial transparentcy
+
+def addSomething(a: Int)(b: Int): Int = a + b
+val add5 = addSomething(5) _
+val result = add5(10)

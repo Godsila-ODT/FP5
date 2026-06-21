@@ -1,63 +1,9 @@
-Title: Why an AI company cleaned my New York City apartment for free
-Link: https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss
+Title: New AI model passes coding benchmarks
+Link: https://example.com/tech/ai-benchmarks
 ---
-Title: Why the social media ban is about so much more than social media
-Link: https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss
+Title: Rust 2.0 release candidate announced
+Link: https://example.com/tech/rust-2
 ---
-Title: New video game console aims to get kids moving
-Link: https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss
----
-Title: UK's top data and AI regulator quits after 'inappropriate' humour
-Link: https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss
----
-Title: GTA 6 - all you need to know about Rockstar's blockbuster game
-Link: https://www.bbc.com/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss
----
-Title: The artificial ice pyramids saving India's mountain villages
-Link: https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss
----
-Title: GTA 6 pre-order date and cover art revealed by Rockstar
-Link: https://www.bbc.com/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss
----
-Title: AI will create more jobs for humans, not replace them, Amazon founder Bezos says
-Link: https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss
----
-Title: What to study in the AI age - from big tech bosses
-Link: https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss
----
-Title: Snap unveils £1,995 smart glasses after previous flops
-Link: https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss
----
-Title: Five big questions about the UK's under-16s social media ban
-Link: https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss
----
-Title: When will social media ban start, and which apps will be affected?
-Link: https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss
----
-Title: What is Helium-3 and could we get it from the moon?
-Link: https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss
----
-Title: Tech Life
-Link: https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&at_campaign=rss
----
-Title: Tech Life
-Link: https://www.bbc.co.uk/sounds/play/w3ct8jxz?at_medium=RSS&at_campaign=rss
----
-Title: Tech Life
-Link: https://www.bbc.co.uk/sounds/play/w3ct8jxy?at_medium=RSS&at_campaign=rss
----
-Title: Tech Life
-Link: https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss
----
-Title: Tech Now
-Link: https://www.bbc.co.uk/iplayer/episode/m002xbvq?at_medium=RSS&at_campaign=rss
----
-Title: Tech Now
-Link: https://www.bbc.co.uk/iplayer/episode/m002x058?at_medium=RSS&at_campaign=rss
----
-Title: Tech Now
-Link: https://www.bbc.co.uk/iplayer/episode/m002wp83?at_medium=RSS&at_campaign=rss
----
-Title: Tech Now
-Link: https://www.bbc.co.uk/iplayer/episode/m002wcyp?at_medium=RSS&at_campaign=rss
+Title: Quantum chip hits 1000 qubits
+Link: https://example.com/tech/quantum-1k
 ---
