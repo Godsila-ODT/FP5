@@ -37,3 +37,21 @@ println(s"fibTailRec: $first10TR")
 
 val facts = (0 to 10).map(factorial).toList
 println(s"factorial:  $facts")
+
+val listOfInt = List(1, 2, 3, 4, 5)
+
+// Add 1 to every element -> List(2, 3, 4, 5, 6)
+def plusOne(xs: List[Int]): List[Int] = xs match
+  case Nil          => Nil
+  case head :: tail => (head + 1) :: plusOne(tail)
+
+// Multiply 2 to every element -> List(2, 4, 6, 8, 10)
+def multiplyTwo(xs: List[Int]): List[Int] = xs match
+  case Nil          => Nil
+  case head :: tail => (head * 2) :: multiplyTwo(tail)
+
+val plusOneList = plusOne(listOfInt)
+println(s"plusOneList: $plusOneList")
+
+val multiplyTwoList = multiplyTwo(listOfInt)
+println(s"multiplyTwoList: $multiplyTwoList")
