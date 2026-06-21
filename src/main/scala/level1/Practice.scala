@@ -48,7 +48,7 @@ final class WordCount(val filePath: String):
       countMap(w) = countMap.getOrElse(w, 0) + 1
       idx += 1
     
-    val top5        = topN(5)(counts)                       // Pure Logic
+    // val top5        = topN(5)(counts)                    // Pure Logic
     val top5 = countMap.toList.sortBy(-_._2).take(5)
 
     // val report      = formatReport(filePath, totalWords, uniqueCount, top5)  // Pure Logic
